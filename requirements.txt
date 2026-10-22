@@ -1,8 +1,6 @@
-Flask
-requests
-aiohttp
-googleapis-common-protos
-pycryptodome
-protobuf
-Werkzeug
-PyJWT
+Flask==3.0.0
+aiohttp==3.9.1
+requests==2.31.0
+pycryptodome==3.19.0
+protobuf==4.25.1
+PyJWT==2.8.0
